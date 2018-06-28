@@ -85,6 +85,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\CoinController.cs" />
+    <Compile Include="Assets\DeleteItem.cs" />
+    <Compile Include="Assets\DestroyItem.cs" />
+    <Compile Include="Assets\ItemGenerator.cs" />
     <Compile Include="Assets\MyCameraController.cs" />
     <Compile Include="Assets\UnityChan\Scripts\CameraController.cs" />
     <Compile Include="Assets\UnityChan\Scripts\FaceUpdate.cs" />
